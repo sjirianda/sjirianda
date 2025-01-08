@@ -12,7 +12,7 @@ Outside of work, here’s what I love:
 ___
 ## 🔒 Cybersecurity
 
-### Projects
+## Projects
 - Detection Lab
 - SOC Automation Project
 ___  

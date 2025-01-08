@@ -10,7 +10,7 @@ Outside of work, here’s what I love:
 📖 **Learning:** Exploring new skills and knowledge.  
 🏋️‍♂️ **Lifting Weights:** Consistency and being 1% better every day. 
 ___
-## 🔒 Cybersecurity
+# 🔒 Cybersecurity
 
 ## 🚧 Projects
 - Detection Lab

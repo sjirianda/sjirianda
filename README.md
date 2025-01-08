@@ -55,7 +55,7 @@ ___
 
 Feel free to reach out if you have any questions or if you just want to connect!
 
-Thank you for visiting my profile! Have a great day! 😊
+Thank you for visiting my profile! 😊
 
 <!---
 sjirianda/sjirianda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

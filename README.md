@@ -13,8 +13,10 @@ ___
 # 🔒 Cybersecurity
 
 ## 🚧 Projects
-- Detection Lab
-- SOC Automation Project
+### [🚨Log Analysis](https://github.com/sjirianda/Log-Analysis)  
+- Tools: Elastic, CyberChef  
+- Outcome: Accurate analysis of logs is crucial for distinguishing between benign admin activity and potential malicious actions.
+
 ___  
 ## 🛠️ Tools  
 

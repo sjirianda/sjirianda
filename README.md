@@ -50,7 +50,6 @@ ___
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/sergioirianda/)
-- [Email](sergio.irianda@outlook.com)
 
 Feel free to reach out if you have any questions or if you just want to connect!
 

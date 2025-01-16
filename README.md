@@ -1,5 +1,5 @@
 # Hey there, I'm Sergio Irianda!
-💻🔍 I'm a [Cybersecurity Professional](https://www.linkedin.com/in/sergioirianda/) dedicated to advancing my skills and becoming a SOC Analyst.
+💻🔍 I'm an [Aspiring Cybersecurity Professional](https://www.linkedin.com/in/sergioirianda/) dedicated to advancing my skills and becoming a SOC Analyst.
 
 I spent a decade becoming a SME at detecting, tracking, and neutralizing underwater threats 🌊🛥️. Now, I’ve surfaced to take that expertise into the digital world 🌐💻, tackling cyber threats with the same precision and determination.
 

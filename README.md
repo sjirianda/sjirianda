@@ -11,7 +11,7 @@ Outside of work, here’s what I love:
 🏋️‍♂️ **Lifting Weights:** Consistency and being 1% better every day. 
 
 ___
-## 🏆 Certifications
+# 🏆 Certifications
 
 <div>
   <a href="https://www.credly.com/badges/YOUR_COMPTIA_SECURITY_PLUS_URL" target="_blank">

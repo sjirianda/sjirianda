@@ -9,6 +9,34 @@ Outside of work, here’s what I love:
 👨‍👧‍👦 **Family:** Spending time with my kids.  
 📖 **Learning:** Exploring new skills and knowledge.  
 🏋️‍♂️ **Lifting Weights:** Consistency and being 1% better every day. 
+
+___
+## 🏆 Certifications
+
+<div>
+  <a href="https://www.credly.com/badges/YOUR_COMPTIA_SECURITY_PLUS_URL" target="_blank">
+    <img src="https://img.shields.io/badge/-COMPTIA_Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  </a>
+  <a href="https://www.credly.com/badges/YOUR_COMPTIA_A_PLUS_URL" target="_blank">
+    <img src="https://img.shields.io/badge/-COMPTIA_A%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  </a>
+  <a href="https://www.credly.com/badges/YOUR_ISC2_CC_URL" target="_blank">
+    <img src="https://img.shields.io/badge/ISC2_CC-4CAF50?&style=for-the-badge&logo=ISC2&logoColor=white" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/certifications/azure-fundamentals/" target="_blank">
+    <img src="https://img.shields.io/badge/AZ%20900_Microsoft_Azure_-4682B4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/certifications/security-fundamentals/" target="_blank">
+    <img src="https://img.shields.io/badge/SC%20900_Microsoft_Security-4682B4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/certifications/ai-fundamentals/" target="_blank">
+    <img src="https://img.shields.io/badge/AI%20900_Microsoft_AI-4682B4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/certifications/data-fundamentals/" target="_blank">
+    <img src="https://img.shields.io/badge/DP%20900_Microsoft_Data-4682B4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
+  </a>
+</div>
+
 ___
 # 🔒 Cybersecurity
 ## 🚧 Projects
@@ -58,34 +86,6 @@ ___
     <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" /> 
     <img src="https://img.shields.io/badge/-Ansible-EE0000?&style=for-the-badge&logo=ansible&logoColor=white" /> 
 </div> 
-
-___
-## 🏆 Certifications
-
-<div>
-  <a href="https://www.credly.com/badges/YOUR_COMPTIA_SECURITY_PLUS_URL" target="_blank">
-    <img src="https://img.shields.io/badge/-COMPTIA_Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-  </a>
-  <a href="https://www.credly.com/badges/YOUR_COMPTIA_A_PLUS_URL" target="_blank">
-    <img src="https://img.shields.io/badge/-COMPTIA_A%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-  </a>
-  <a href="https://www.credly.com/badges/YOUR_ISC2_CC_URL" target="_blank">
-    <img src="https://img.shields.io/badge/ISC2_CC-4CAF50?&style=for-the-badge&logo=ISC2&logoColor=white" />
-  </a>
-  <a href="https://learn.microsoft.com/en-us/certifications/azure-fundamentals/" target="_blank">
-    <img src="https://img.shields.io/badge/AZ%20900_Microsoft_Azure_-4682B4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-  </a>
-  <a href="https://learn.microsoft.com/en-us/certifications/security-fundamentals/" target="_blank">
-    <img src="https://img.shields.io/badge/SC%20900_Microsoft_Security-4682B4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-  </a>
-  <a href="https://learn.microsoft.com/en-us/certifications/ai-fundamentals/" target="_blank">
-    <img src="https://img.shields.io/badge/AI%20900_Microsoft_AI-4682B4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
-  </a>
-  <a href="https://learn.microsoft.com/en-us/certifications/data-fundamentals/" target="_blank">
-    <img src="https://img.shields.io/badge/DP%20900_Microsoft_Data-4682B4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
-  </a>
-</div>
-
 
     
 ___

@@ -14,26 +14,41 @@ ___
 # 🏆 Certifications
 
 <div>
-  <a href="https://www.credly.com/badges/YOUR_COMPTIA_SECURITY_PLUS_URL" target="_blank">
+  <a href="https://www.credly.com/earner/earned/badge/fb8c0a4e-5dbc-4e64-9946-64e3b3c013d1" target="_blank">
     <img src="https://img.shields.io/badge/-COMPTIA_Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
   </a>
-  <a href="https://www.credly.com/badges/YOUR_COMPTIA_A_PLUS_URL" target="_blank">
+  <a href="https://www.credly.com/badges/12c88f42-59b4-47be-84ea-f43dbcaf8f7a/linked_in_profile" target="_blank">
+    <img src="https://img.shields.io/badge/-COMPTIA_Network%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  </a>
+  <a href="https://www.credly.com/badges/3fbb68c3-0927-4dc2-b909-768b0ce4741b" target="_blank">
     <img src="https://img.shields.io/badge/-COMPTIA_A%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
   </a>
-  <a href="https://www.credly.com/badges/YOUR_ISC2_CC_URL" target="_blank">
+  <a href="https://www.credly.com/badges/208c6198-5ae9-4984-83a2-67d682c7428b/public_url" target="_blank">
     <img src="https://img.shields.io/badge/ISC2_CC-4CAF50?&style=for-the-badge&logo=ISC2&logoColor=white" />
   </a>
-  <a href="https://learn.microsoft.com/en-us/certifications/azure-fundamentals/" target="_blank">
-    <img src="https://img.shields.io/badge/AZ%20900_Microsoft_Azure_-4682B4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/SergioIrianda/47EC0393DA40B630?sharingId" target="_blank">
+    <img src="https://img.shields.io/badge/AZ%20305_Azure_Architect-0078F4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
   </a>
-  <a href="https://learn.microsoft.com/en-us/certifications/security-fundamentals/" target="_blank">
-    <img src="https://img.shields.io/badge/SC%20900_Microsoft_Security-4682B4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/SergioIrianda/B86FFA585A0BD1E8?sharingId" target="_blank">
+    <img src="https://img.shields.io/badge/AZ%20104_Azure_Admin-0078A1?&style=for-the-badge&logo=Microsoft&logoColor=white" />
   </a>
-  <a href="https://learn.microsoft.com/en-us/certifications/ai-fundamentals/" target="_blank">
-    <img src="https://img.shields.io/badge/AI%20900_Microsoft_AI-4682B4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/SergioIrianda/F35439F02503080E?sharingId=E90AEEA865A4895A" target="_blank">
+    <img src="https://img.shields.io/badge/AZ%20900_Azure_Fundamentals-4682B4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
   </a>
-  <a href="https://learn.microsoft.com/en-us/certifications/data-fundamentals/" target="_blank">
-    <img src="https://img.shields.io/badge/DP%20900_Microsoft_Data-4682B4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/SergioIrianda/72D56B2809208A8C?sharingId" target="_blank">
+    <img src="https://img.shields.io/badge/AI%20900_AI_Fundamentals-4682B4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
+  </a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/SergioIrianda/84B080EE4D411936?sharingId" target="_blank">
+    <img src="https://img.shields.io/badge/SC%20900_Security_Fundamentals-4682B4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+  </a>
+   <a href="https://learn.microsoft.com/api/credentials/share/en-us/SergioIrianda/928065E561E20156?sharingId=E90AEEA865A4895A" target="_blank">
+    <img src="https://img.shields.io/badge/DP%20900_Data_Fundamentals-4682B4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+  </a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/SergioIrianda/E193D7F174A4AE81?sharingId" target="_blank">
+    <img src="https://img.shields.io/badge/MS%20900_Microsoft_365_Fundamentals-4682B4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+  </a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/SergioIrianda/314644BC84627348?sharingId" target="_blank">
+    <img src="https://img.shields.io/badge/PL%20900_Power_Platform_Fundamentals-4682B4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
   </a>
 </div>
 
